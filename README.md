@@ -28,7 +28,7 @@ Flutter instalado
 Dependências listadas no arquivo `pubspec.yaml`
 
 Clone este repositório
-`https://github.com/HeryckPeres/Contador-de-Pessoas-Flutter.git`
+`[https://github.com/HeryckPeres/Contador-de-Pessoas-Flutter.git](https://github.com/HeryckPeres/Conversor-de-moedas-API-Flutter.git)`
 
 Navegue até o diretório do projeto
 `cd contador_de_pessoas`
