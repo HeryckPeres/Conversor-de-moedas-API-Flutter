@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart/async.dart';
 import 'dart:convert';
 
-const request = 'https://api.hgbrasil.com/finance?key=332865c7';
+const request = 'https://api.hgbrasil.com/finance?key=[coloque sua chave aqui]';
 
 void main() async {
   runApp(MaterialApp(
