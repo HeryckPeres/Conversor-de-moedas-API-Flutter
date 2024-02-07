@@ -1,20 +1,41 @@
-# conversor_de_moedas
+# Conversor de Moedas
 
-A new Flutter project.
+Um aplicativo simples de conversão de moedas desenvolvido em Flutter que utiliza a API da HGBrasil para obter as taxas de câmbio atualizadas.
 
-## Getting Started
+## Visão Geral
 
-This project is a starting point for a Flutter application.
+O Conversor de Moedas permite aos usuários converter entre diferentes moedas, como Real (BRL), Dólar (USD) e Euro (EUR). Ele utiliza a API da HGBrasil para obter taxas de câmbio atualizadas em tempo real.
 
-A few resources to get you started if this is your first Flutter project:
+## Captura de Tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Conversor-de-Moedas--API
-# Conversor-de-Moedas-API
-# Conversor-de-moedas-API-Flutter
-# Conversor-de-moedas-API-Flutter
+![conversor de moedas](https://github.com/HeryckPeres/Conversor-de-moedas-API-Flutter/assets/54678836/566b54cc-3cc5-404f-a312-720a82ee36ca)
+
+
+## Funcionalidades
+
+- Conversão entre Real (BRL), Dólar (USD) e Euro (EUR).
+- Taxas de câmbio atualizadas em tempo real da API da HGBrasil.
+- Interface de usuário simples e intuitiva.
+
+## Pré-requisitos
+
+Configurando a chave da API:
+   - Vá para o site da [HGBrasil](https://hgbrasil.com/) e registre-se para obter uma chave de API gratuita.
+   - Insira sua chave de API no arquivo `main.dart` do projeto, substituindo `[coloque sua chave aqui]` pela sua chave de API.
+
+Flutter instalado
+Dependências listadas no arquivo `pubspec.yaml`
+
+Clone este repositório
+`https://github.com/HeryckPeres/Contador-de-Pessoas-Flutter.git`
+
+Navegue até o diretório do projeto
+`cd contador_de_pessoas`
+
+Execute o aplicativo
+`flutter run`
+
+## Uso
+- Insira um valor em Reais no campo correspondente.
+- O aplicativo calculará automaticamente os equivalentes em Dólares e Euros com base nas taxas de câmbio atualizadas.
